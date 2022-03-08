@@ -185,6 +185,7 @@ export default {
 
             <!--end Layouts menu -->
             <li v-if="!item.isTitle && !item.isLayout" :key="item.id">
+              <!-- thẻ a quản lý các icon, chữ các li ở sidebar -->
               <a
                 v-if="hasItems(item)"
                 href="javascript:void(0);"
@@ -252,7 +253,7 @@ export default {
             </li>
           </template>
 
-          <li>
+          <!-- <li>
             <a href="javascript: void(0);" class="has-arrow waves-effect">
               <i class="ri-share-line"></i>
               <span>Multi Level</span>
@@ -273,7 +274,7 @@ export default {
                 </ul>
               </li>
             </ul>
-          </li>
+          </li> -->
         </ul>
       </div>
       <!-- Sidebar -->
@@ -281,3 +282,7 @@ export default {
   </div>
   <!-- Left Sidebar End -->
 </template>
+
+
+
+

@@ -22,7 +22,7 @@ export default {
       title: "Kanban Board",
       items: [
         {
-          text: "Nazox",
+          text: "SmartCam",
           href: "/",
         },
         {
@@ -49,7 +49,7 @@ export default {
             />
           </div>
           <div class="media-body">
-            <h5>Nazox admin Dashboard</h5>
+            <h5>SmartCam admin Dashboard</h5>
             <span class="badge badge-soft-success">Open</span>
           </div>
         </div>

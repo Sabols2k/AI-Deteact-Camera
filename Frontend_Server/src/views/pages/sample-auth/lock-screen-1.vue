@@ -21,7 +21,7 @@ export default {};
                       <div class="text-center">
                         <div>
                           <a href="/" class="logo">
-                            <img src="@/assets/images/logo-dark.png" height="20" alt="logo" />
+                            <img src="@/assets/images/logo-cam.jpg" height="70" alt="logo" />
                           </a>
                         </div>
 
@@ -66,8 +66,8 @@ export default {};
                           <a href="auth-login.html" class="font-weight-medium text-primary">Log in</a>
                         </p>
                         <p>
-                          © 2020 Nazox. Crafted with
-                          <i class="mdi mdi-heart text-danger"></i> by Themesdesign
+                          © 2022 SmartCam. Crafted with
+                          <i class="mdi mdi-heart text-danger"></i> by AI Camera Teams
                         </p>
                       </div>
                     </div>

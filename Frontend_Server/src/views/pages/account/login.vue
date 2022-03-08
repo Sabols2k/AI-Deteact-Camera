@@ -96,12 +96,12 @@ export default {
                       <div class="text-center">
                         <div>
                           <a href="/" class="logo">
-                            <img src="@/assets/images/logo-dark.png" height="20" alt="logo" />
+                            <img src="@/assets/images/logo-cam.jpg" height="70" alt="logo" />
                           </a>
                         </div>
 
                         <h4 class="font-size-18 mt-4">Welcome Back !</h4>
-                        <p class="text-muted">Sign in to continue to Nazox.</p>
+                        <p class="text-muted">Sign in to continue to SmartCam.</p>
                       </div>
 
                       <b-alert
@@ -185,8 +185,8 @@ export default {
                           >Register</router-link>
                         </p>
                         <p>
-                          © 2020 Nazox. Crafted with
-                          <i class="mdi mdi-heart text-danger"></i> by Themesdesign
+                          © 2022 SmartCam. Crafted with
+                          <i class="mdi mdi-heart text-danger"></i> by AI Camera Teams
                         </p>
                       </div>
                     </div>

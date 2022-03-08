@@ -1,4 +1,4 @@
-# Nazox- Vuejs admin template
+# SmartCam- Vuejs admin template
 
 ## Project setup
 ```

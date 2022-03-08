@@ -109,6 +109,18 @@
         "lighttopbar": "Light Topbar"
       }
     },
+    "livecameras": {
+      "text": "Live Cameras"
+    },
+    "events": {
+      "text": "Events"
+    },
+    "CameraMangagements": {
+      "text": "Camera Mangagements"
+    },
+    "Profile": {
+      "text": "Profile"
+    },
     "apps": {
       "text": "Apps"
     },
@@ -238,7 +250,8 @@
         "googlemap": "Google Maps",
         "leaflet": "Leaflet Maps"
       }
-    },
+    }
+    ,
     "multilevel": {
       "text": "Multi Level",
       "list": {

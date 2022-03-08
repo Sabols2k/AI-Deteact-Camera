@@ -159,10 +159,10 @@ export default {
 
           <a href="index.html" class="logo logo-light">
             <span class="logo-sm">
-              <img src="@/assets/images/logo-sm-light.png" alt height="22" />
+              <img src="@/assets/images/logo-cam-light.png" alt height="55" />
             </span>
             <span class="logo-lg">
-              <img src="@/assets/images/logo-light.png" alt height="20" />
+              <img src="@/assets/images/logo-cam-light.png" alt height="50" />
             </span>
           </a>
         </div>

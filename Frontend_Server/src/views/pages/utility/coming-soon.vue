@@ -75,11 +75,11 @@ export default {
                       <div class="text-center">
                         <div>
                           <a href="index.html" class="logo">
-                            <img src="@/assets/images/logo-dark.png" height="20" alt="logo" />
+                            <img src="@/assets/images/logo-cam.jpg" height="70" alt="logo" />
                           </a>
                         </div>
 
-                        <h4 class="font-size-18 mt-4">Let's get started with Nazox</h4>
+                        <h4 class="font-size-18 mt-4">Let's get started with SmartCam</h4>
                         <p
                           class="text-muted"
                         >It will be as simple as Occidental in fact it will be Occidental.</p>

@@ -28,7 +28,7 @@ export default {
       title: "Calendar",
       items: [
         {
-          text: "Nazox",
+          text: "SmartCam",
         },
         {
           text: "Calendar",
