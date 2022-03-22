@@ -17,23 +17,23 @@ export const menuItems = [
     {
         id: 3,
         label: 'menuitems.livecameras.text',
-        icon: 'ri-calendar-2-line',
+        icon: 'ri-live-line',
         link: '/calendar'
     },
     {
         id: 4,
         label: 'menuitems.events.text',
-        icon: 'ri-calendar-2-line',
+        icon: 'ri-calendar-event-line',
         link: '/calendar'
     },
     {
-        id: 3,
+        id: 5,
         label: 'menuitems.CameraMangagements.text',
         icon: 'ri-calendar-2-line',
         link: '/calendar'
     },
     {
-        id: 3,
+        id: 6,
         label: 'menuitems.Profile.text',
         icon: 'ri-calendar-2-line',
         link: '/calendar'
