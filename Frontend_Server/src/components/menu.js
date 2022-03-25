@@ -24,19 +24,19 @@ export const menuItems = [
         id: 4,
         label: 'menuitems.events.text',
         icon: 'ri-calendar-event-line',
-        link: '/calendar'
+        link: '/events'
     },
     {
         id: 5,
         label: 'menuitems.CameraMangagements.text',
-        icon: 'ri-calendar-2-line',
-        link: '/calendar'
+        icon: 'ri-camera-3-line',
+        link: '/cameras'
     },
     {
         id: 6,
         label: 'menuitems.Profile.text',
-        icon: 'ri-calendar-2-line',
-        link: '/calendar'
+        icon: 'ri-profile-line',
+        link: '/profile'
     },
 
     // {

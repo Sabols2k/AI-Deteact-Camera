@@ -4,13 +4,13 @@ import PageHeader from "@/components/page-header";
 
 import Stat from "./widget";
 import RevenueAnalytics from "./revenue";
-import SalesAnalytics from "./sales-analytics";
-import EarningReport from "./earning";
-import Sources from "./sources";
-import RecentActivity from "./recent-activity";
-import RevenueLocation from "./revenue-location";
-import Chat from "./chat";
-import Transaction from './transaction';
+// import SalesAnalytics from "./sales-analytics";
+// import EarningReport from "./earning";
+// import Sources from "./sources";
+// import RecentActivity from "./recent-activity";
+// import RevenueLocation from "./revenue-location";
+// import Chat from "./chat";
+// import Transaction from './transaction';
 
 /**
  * Dashboard component
@@ -21,13 +21,13 @@ export default {
     PageHeader,
     Stat,
     RevenueAnalytics,
-    SalesAnalytics,
-    EarningReport,
-    Sources,
-    RecentActivity,
-    RevenueLocation,
-    Chat,
-    Transaction
+    // SalesAnalytics,
+    // EarningReport,
+    // Sources,
+    // RecentActivity,
+    // RevenueLocation,
+    // Chat,
+    // Transaction
   },
   data() {
     return {
@@ -50,15 +50,16 @@ export default {
   <Layout>
     <PageHeader :title="title" :items="items" />
     <div class="row">
-      <div class="col-xl-8">
+      <div class="col-xl-12">
         <Stat />
         <RevenueAnalytics />
       </div>
-      <div class="col-xl-4">
+      <!-- <div class="col-xl-4">
         <SalesAnalytics />
         <EarningReport />
-      </div>
+      </div> -->
     </div>
+<!--     
     <div class="row">
       <div class="col-lg-4">
         <Sources />
@@ -77,6 +78,7 @@ export default {
       <div class="col-lg-8">
         <Transaction />
       </div>
-    </div>
+    </div> -->
+
   </Layout>
 </template>

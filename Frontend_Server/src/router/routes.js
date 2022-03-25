@@ -80,6 +80,27 @@ export default [
         component: () => import('../views/pages/dashboard/index')
     },
     {
+        path: '/events',
+        name: 'Events',
+        meta: { authRequired: true },
+        component: () => import('../views/pages/tables/eventtable')
+    },
+    {
+        path: '/cameras',
+        name: 'Cameras',
+        meta: { authRequired: true },
+        component: () => import('../views/pages/tables/cameratable')
+    },
+    {
+        path: '/profile',
+        name: 'Profile',
+        meta: { authRequired: true },
+        component: () => import('../views/pages/tables/eventtable')
+    },
+
+    //TEMPLATES
+
+    {
         path: '/chat',
         name: 'Chat',
         meta: {

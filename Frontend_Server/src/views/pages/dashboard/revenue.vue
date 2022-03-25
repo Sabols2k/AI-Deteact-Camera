@@ -91,7 +91,7 @@ export default {
           <div class="d-inline-flex">
             <h5 class="mr-2">$12,253</h5>
             <div class="text-success">
-              <i class="mdi mdi-menu-up font-size-14"></i>2.2 %
+              <!-- <i class="mdi mdi-menu-up font-size-14"></i>2.2 % -->
             </div>
           </div>
           <p class="text-muted text-truncate mb-0">This month</p>
@@ -105,7 +105,7 @@ export default {
             <div class="d-inline-flex">
               <h5 class="mb-0 mr-2">$ 34,254</h5>
               <div class="text-success">
-                <i class="mdi mdi-menu-up font-size-14"></i>2.1 %
+                <!-- <i class="mdi mdi-menu-up font-size-14"></i>2.1 % -->
               </div>
             </div>
           </div>

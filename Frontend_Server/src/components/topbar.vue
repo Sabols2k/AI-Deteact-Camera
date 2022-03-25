@@ -120,7 +120,7 @@ export default {
           </div>
         </form>
 
-        <b-dropdown
+        <!-- <b-dropdown
           variant="black"
           class="dropdown-mega d-none d-lg-block ml-2"
           toggle-class="header-item"
@@ -311,7 +311,7 @@ export default {
               </div>
             </div>
           </div>
-        </b-dropdown>
+        </b-dropdown> -->
       </div>
 
       <div class="d-flex">
@@ -345,7 +345,7 @@ export default {
           </div>
         </div>
 
-        <b-dropdown variant="white" right toggle-class="header-item">
+        <!-- <b-dropdown variant="white" right toggle-class="header-item">
           <template v-slot:button-content>
             <img class src="@/assets/images/flags/us.jpg" alt="Header Language" height="16" />
           </template>
@@ -360,9 +360,9 @@ export default {
             <img :src="`${entry.flag}`" alt="user-image" class="mr-1" height="12" />
             <span class="align-middle">{{ entry.title }}</span>
           </b-dropdown-item>
-        </b-dropdown>
+        </b-dropdown> -->
 
-        <b-dropdown
+        <!-- <b-dropdown
           class="d-none d-lg-inline-block d-lg-inline-block ml-1"
           menu-class="dropdown-menu-lg"
           right
@@ -415,7 +415,7 @@ export default {
               </div>
             </div>
           </div>
-        </b-dropdown>
+        </b-dropdown> -->
 
         <div class="dropdown d-none d-lg-inline-block ml-1">
           <button
@@ -577,13 +577,13 @@ export default {
         </b-dropdown>
 
         <div class="dropdown d-inline-block">
-          <button
+          <!-- <button
             type="button"
             class="btn header-item noti-icon right-bar-toggle waves-effect toggle-right"
             @click="toggleRightSidebar"
           >
             <i class="ri-settings-2-line toggle-right"></i>
-          </button>
+          </button> -->
         </div>
       </div>
     </div>

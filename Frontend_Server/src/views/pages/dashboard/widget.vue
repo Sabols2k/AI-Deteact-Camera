@@ -7,21 +7,21 @@ export default {
     return {
       statData: [
         {
-          title: "Number of Sales",
-          icon: "ri-stack-line",
-          value: "1452",
+          title: "Camera Online ",
+          icon: "ri-camera-2-line",
+          value: "3/4",
           subvalue: " 2.4% "
         },
         {
-          title: "Sales Revenue",
-          icon: "ri-store-2-line",
-          value: "$ 38452",
+          title: "Site Online",
+          icon: "ri-map-pin-line",
+          value: "2/2",
           subvalue: " 2.4% "
         },
         {
-          title: "Average Price",
-          icon: "ri-briefcase-4-line",
-          value: "$ 15.4",
+          title: "Average Score",
+          icon: "ri-numbers-line",
+          value: "88.6%",
           subvalue: " 2.4% "
         }
       ]
@@ -46,7 +46,7 @@ export default {
           </div>
         </div>
 
-        <div class="card-body border-top py-3">
+        <!-- <div class="card-body border-top py-3">
           <div class="text-truncate">
             <span class="badge badge-soft-success font-size-11">
               <i class="mdi mdi-menu-up"></i>
@@ -54,7 +54,7 @@ export default {
             </span>
             <span class="text-muted ml-2">From previous period</span>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
